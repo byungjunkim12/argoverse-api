@@ -9,7 +9,7 @@ dist/*
 
 .DS_Store
 .idea
-map_files/*
+# map_files/*
 *.jpg
 !/images/*.jpg
 !/docs/_images/*.jpg
